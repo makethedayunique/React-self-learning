@@ -10,4 +10,6 @@ Author: **@MAKETHEDAYUNIQUE**
 
 ###### 2. Infinite Scroll using React
 
+###### 3. Two buttons click to change the count
+
 ---
